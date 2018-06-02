@@ -18,4 +18,4 @@ STEP 3: Configure the BLYNK APP in your Mobile and Arduino IDE  - https://www.yo
 
 STEP 4: Configure the IFTTT in Mobile - https://www.youtube.com/watch?v=5SvRolROPxA&t=506s
 
-STEP 5: Copy the 'hana_voice_iot' file to NODEMCU
+STEP 5: Copy the code from 'hana_voice_iot' file to NODEMCU
